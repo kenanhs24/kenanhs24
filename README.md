@@ -76,10 +76,12 @@ I love connecting with people and working on exciting projects. Feel free to rea
 ---
 
 ---
+---
 
 ### Show some ❤️ by starring some of the repositories!  
 
-<p align="center">
+<p align="center" style="color:pink; font-size:16px;">
   <b>Thanks for visiting my profile, see you next time!</b>  
 </p>
+
 
