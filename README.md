@@ -2,6 +2,13 @@
 
 I love connecting with people and working on exciting projects. Feel free to reach out!
 
+## 🏅 Competitive Skills
+- 🧠 Problem Solving
+- 📊 Data Structures & Algorithms
+- 👨‍💼 Leadership
+- 🎤 Event Management
+
+
 ### 🏆 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
