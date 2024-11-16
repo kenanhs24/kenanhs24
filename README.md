@@ -74,3 +74,12 @@ I love connecting with people and working on exciting projects. Feel free to rea
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
+
+---
+
+### Show some ❤️ by starring some of the repositories!  
+
+<p align="center">
+  <b>Thanks for visiting my profile, see you next time!</b>  
+</p>
+
