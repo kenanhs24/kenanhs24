@@ -15,44 +15,43 @@ I love connecting with people and working on exciting projects. Feel free to rea
 ---
 
 
-### 🏆 GitHub Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+### 🏆 GitHub Profile Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 👨‍💻 Programming Languages  
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ### 🔍 Software Testing Tools  
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-- ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)  
-- ![Gherkin](https://img.shields.io/badge/Gherkin-75AADB?style=for-the-badge)  
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
-- ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-75AADB?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ### 🌐 Web Technologies  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
 ### 📋 API Testing  
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-- ![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
 ### 🗂️ Database  
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
-- ![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge)
-
----
-
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge)
+![Database Testing](https://img.shields.io/badge/Database%20Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
@@ -65,19 +64,11 @@ I love connecting with people and working on exciting projects. Feel free to rea
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=x&logoColor=white)
-![Database Testing](https://img.shields.io/badge/Database%20Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge)
 
 ---
 
-
-
-
----
 ### 💻 Operating Systems  
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-- ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
