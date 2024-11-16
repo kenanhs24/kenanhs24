@@ -1,6 +1,7 @@
 # Hi there, I'm Hidir ! 👋
 
 I love connecting with people and working on exciting projects. Feel free to reach out!
+![Coding From Home](images/your-image-name.png)
 
 ---
 
