@@ -13,27 +13,43 @@ I love connecting with people and working on exciting projects. Feel free to rea
 [![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🚀 My Skills and TechStacks
+---
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 👨‍💻 Programming Languages  
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+---
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🔍 Software Testing Tools  
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+- ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)  
+- ![Gherkin](https://img.shields.io/badge/Gherkin-75AADB?style=for-the-badge)  
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
+- ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
+---
 
-### 🗂️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🌐 Web Technologies  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## Platforms
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📋 API Testing  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+- ![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge&logo=api&logoColor=white)
 
-## 📫 Connect with Me
-Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername/).
+---
 
+### 🗂️ Database  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+- ![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge)
+
+---
+
+### 🔧 Tools  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
