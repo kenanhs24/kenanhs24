@@ -2,11 +2,17 @@
 
 I love connecting with people and working on exciting projects. Feel free to reach out!
 
-## 🏅 Competitive Skills
-- 🧠 Problem Solving
-- 📊 Data Structures & Algorithms
-- 👨‍💼 Leadership
-- 🎤 Event Management
+---
+
+### 🏅 Competitive Skills  
+- 🧠 **Problem Solving**: Analytical approach to debugging and resolving issues.  
+- 📊 **Data Structures & Algorithms**: Strong foundation for optimizing test frameworks and tools.  
+- 🧪 **Software Testing**: Expertise in manual and automated testing, ensuring high-quality software delivery.  
+- 🛠️ **SDET (Software Development Engineer in Test)**: Proficient in building robust test frameworks, automation pipelines, and ensuring CI/CD success.  
+- 👨‍💼 **Leadership**: Guiding teams towards quality goals and fostering collaborative testing efforts.  
+- 🎤 **Event Management**: Effective in organizing and presenting knowledge-sharing sessions for testers and developers.
+
+---
 
 
 ### 🏆 GitHub Profile Trophies
