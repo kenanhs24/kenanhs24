@@ -36,8 +36,10 @@ I love connecting with people and working on exciting projects. Feel free to rea
 
 ---
 
-### 🌐 Web Technologies  
+## 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![XPath](https://img.shields.io/badge/XPath-3270F4?style=for-the-badge&logo=x&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
